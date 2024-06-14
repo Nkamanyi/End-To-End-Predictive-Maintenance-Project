@@ -1,5 +1,4 @@
 import sys
-from src.logger import logging
 
 def get_error_message(error, error_detail: sys):
     # Extract the traceback object
